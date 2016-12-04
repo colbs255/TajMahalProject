@@ -6,7 +6,6 @@
 
 #titleMain {
     color: #000000;
-    font-size: 50px;
 }
 
 .navbar-inverse {
@@ -30,8 +29,10 @@
 .jumbotron {
     background-color: gold;
     margin-bottom: 0;
-    padding-left: 13%;
-    padding-right: 13%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 20px;
+    padding-bottom: 25px;
 }
 
 .cellTitle {
@@ -85,4 +86,8 @@ footer > p {
 
 .carousel {
     margin-top: 10px;
+}
+
+.sideIMG {
+    margin-left: 5px;
 }
