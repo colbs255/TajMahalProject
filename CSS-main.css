@@ -88,7 +88,7 @@ footer > p {
     margin-top: 10px;
 }
 
-.sideIMG {
+.rightIMG {
     margin-left: 5px;
 }
 
@@ -99,3 +99,7 @@ footer > p {
 }
 
 
+
+.leftIMG {
+    margin-right: 5px;
+}
